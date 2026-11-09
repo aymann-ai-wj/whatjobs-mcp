@@ -1,6 +1,6 @@
 # WhatJobs Job Search: MCP server
 
-Search live jobs from [WhatJobs](https://www.whatjobs.com) in 25 countries, right from your AI assistant: job listings, salary ranges and comparisons in local currency, the companies hiring most, job counts across places, newly posted jobs, and jobs that fit your skills.
+Search live jobs from [WhatJobs](https://www.whatjobs.com) in 58 countries, right from your AI assistant: job listings, salary ranges and comparisons in local currency, the companies hiring most, job counts across places, newly posted jobs, and jobs that fit your skills.
 
 - **Server URL:** `https://mcp.whatjobs.com/mcp` (Streamable HTTP)
 - **No sign-in:** public and read-only, nothing to set up
@@ -76,7 +76,7 @@ Connect to `https://mcp.whatjobs.com/mcp` over Streamable HTTP. No API key or au
 
 ## Countries
 
-United Kingdom, United States, Canada, Germany, India, Pakistan, Brazil, Spain, United Arab Emirates, Mexico, Argentina, South Africa, Austria, Australia, Belgium, Bahrain, Chile, Colombia, Costa Rica, Switzerland, Dominican Republic, Algeria, Nigeria, Netherlands and France.
+United Kingdom, United States, Canada, Germany, India, Pakistan, Brazil, Spain, United Arab Emirates, Mexico, Argentina, South Africa, Austria, Australia, Belgium, Bahrain, Chile, Colombia, Costa Rica, Switzerland, Dominican Republic, Algeria, Nigeria, Netherlands, France, Denmark, Egypt, Indonesia, Malaysia, Oman, Philippines, Qatar, Saudi Arabia, Singapore, Tanzania, Uganda, Finland, Greece, Guatemala, Hong Kong, Ireland, Italy, Kuwait, Lithuania, Luxembourg, Morocco, Norway, New Zealand, Panama, Peru, Poland, Puerto Rico, Portugal, Russia, Sweden, Thailand, Turkey and Venezuela.
 
 ## More
 
